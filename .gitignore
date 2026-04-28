@@ -1,0 +1,27 @@
+# Power BI temp files
+*.pbix.tmp
+*.pbix-tmp
+.pbi/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temp files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (for any future scripts)
+__pycache__/
+*.pyc
+.env
+venv/
+*.ipynb_checkpoints
