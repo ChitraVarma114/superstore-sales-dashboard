@@ -36,20 +36,20 @@ Top-line KPIs (Total Sales, Profit, Margin, Orders, AOV, YoY Growth), US
 geographic distribution, profit by sub-category, and a year-over-year trend 
 chart comparing current sales against the same period last year.
 
-![Sales Overview](page1_sales_overview.png)
+![Sales Overview](sales_overview.png)
 
 ### Page 2 — Product Performance
 A discount-vs-profit scatter plot identifying the relationship between 
 aggressive discounting and negative profit. Tables, Bookcases, and Supplies 
 are flagged as loss-making sub-categories.
 
-![Product Performance](page2_product_performance.png)
+![Product Performance](product_performance.png)
 
 ### Page 3 — Customer Analysis
 Customer segmentation, repeat-purchase rate, top 10 customers by sales, and 
 geographic profit at the state level.
 
-![Customer Analysis](page3_customer_analysis.png)
+![Customer Analysis](customer_analysis.png)
 
 ## Key Insights
 
