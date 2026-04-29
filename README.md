@@ -82,15 +82,22 @@ behavior, top 10 customers by sales, and geographic profit at the state level.
 ## Files in This Repository
 
 - `Superstore_Sales_Dashboard.pbix` — Power BI source file
-- `Sample_Superstore.csv` — raw dataset
 - `sales_overview.png`, `product_performance.png`, `customer_analysis.png` — page screenshots
+
+## Dataset
+
+Built using the **Sample Superstore** dataset, available on Kaggle:  
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+Dates were rescaled to 2023–2026 within Power BI for portfolio relevance.
 
 ## How to Use
 
-1. Download the `.pbix` file
-2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-3. Click through the three page tabs to explore each section
-4. Use the slicers (Region, Category, Year) to drill into specific dimensions
+1. Download the dataset from the Kaggle link above
+2. Download the `.pbix` file from this repo
+3. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+4. If prompted to refresh data, point to your local copy of the CSV
+5. Click through the three page tabs to explore each section
 
 ## Limitations & Notes
 
